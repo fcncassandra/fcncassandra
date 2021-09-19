@@ -1,5 +1,35 @@
 ### Hi there 👋
 
+⚡ 计算机、金融、音乐爱好者
+
+🔭 最近辞职待业在家充电
+
+🌱 充电计划：
+
+- **技术：**
+  量化投资（进行中）
+  深度学习
+  云计算
+  量子计算
+  前端Vue
+  Hyperledge
+  CFA3级
+  CGFT1级
+  数据结构
+  设计模式
+
+- **艺术：**
+  合成器初级
+
+- **生活：**
+  健身减肥（进行中）
+  男士简妆
+
+- **项目：**
+  开源几个前后端系统
+
+
+
 <!--
 **fcncassandra/fcncassandra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +44,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
