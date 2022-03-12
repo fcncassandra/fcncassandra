@@ -2,7 +2,12 @@
 
 ⚡ 计算机、金融、音乐爱好者
 
+2022年目标：
 
+- 1 减重，体检指标正常，能顺利通过抱石的lv3
+- 2 打好算法和数据结构基础，能达到中上规模量化公司的要求
+- 3 B站做20次以上的教学视频，能达到10w关注量
+- 4 工作顺利，理解互联网金融全链路
 
 <!--
 **fcncassandra/fcncassandra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
